@@ -15,6 +15,19 @@ h1, h2 {
 	border-bottom: 1px solid #343434;
 	padding-bottom: 20px;
 }
+a  {
+	color: #d0a068;
+}
+a:hover,
+a:focus {
+	text-decoration: none;
+	color: #343434;
+	transition:all .4s ease-in-out;
+	-ms-transition:all .4s ease-in-out 0s;
+	-webkit-transition:all .4s ease-in-out;
+	-moz-transition:all .4s ease-in-out;
+	-o-transition:all .4s ease-in-out
+}
 section,
 body > div.container {
     padding: 75px 0 85px;
