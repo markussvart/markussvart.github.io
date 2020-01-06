@@ -43,7 +43,9 @@ section.dark h6 {
 section.dark a:hover{
 	color: #797979;
 }
-
+footer {
+	padding: 25px 0 15px;
+}
 
 #hem.transparent {
 	background: url(images/header.jpg) no-repeat center top;
@@ -54,7 +56,6 @@ section.dark a:hover{
 	background-size: cover;
 	background-attachment: fixed;
 }
-
 #kontakt.transparent {
 	background: url(images/world.jpg) no-repeat center top;
 	-webkit-background-size: cover;
