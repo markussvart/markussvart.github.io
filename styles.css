@@ -15,6 +15,35 @@ h1, h2 {
 	border-bottom: 1px solid #343434;
 	padding-bottom: 20px;
 }
+section,
+body > div.container {
+    padding: 75px 0 85px;
+	line-height: 2em;
+}
+section.light {
+	background: #f2f2f1;
+	padding: 24px 0 20px;
+}
+section.light hr{
+	border-color: #343434;
+}
+section.dark,
+footer {
+	background: #343434;
+	color: #797979;
+}
+section.dark h2,
+section.dark h3,
+section.dark h4,
+section.dark h5,
+section.dark h6 {
+	color: #f2f2f1;
+	border-color: #f2f2f1;
+}
+section.dark a:hover{
+	color: #797979;
+}
+
 
 #hem.transparent {
 	background: url(images/header.jpg) no-repeat center top;
