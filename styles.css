@@ -25,3 +25,12 @@ h1, h2 {
 	background-size: cover;
 	background-attachment: fixed;
 }
+
+#kontakt.transparent {
+	background: url(images/world.jpg) no-repeat center top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+}
